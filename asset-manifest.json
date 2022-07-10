@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/naya100/movie_app/static/css/main.9a351d1c.css",
+    "main.js": "/naya100/movie_app/static/js/main.9644416a.js",
+    "index.html": "/naya100/movie_app/index.html",
+    "main.9a351d1c.css.map": "/naya100/movie_app/static/css/main.9a351d1c.css.map",
+    "main.9644416a.js.map": "/naya100/movie_app/static/js/main.9644416a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9a351d1c.css",
+    "static/js/main.9644416a.js"
+  ]
+}
